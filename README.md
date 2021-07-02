@@ -7,17 +7,20 @@
 I'm currently using:
 - Javascript
 - CSS
-- AWS (IAM, Cognito, API Gateway, Lambda, RDS, CloudWatch)
+- MySQL
+- AWS (IAM, Cognito, API Gateway, Lambda, RDS/Aurora, CloudWatch)
 - Svelte
 - Sapper
 - PHP
 - Wordpress
-- Salesforce (Apex, VisualForce)
+- Salesforce (incl. Apex, VisualForce)
 
-In the past I've used:
+What I've used in the past:
 - C# .Net
 - Magic e-Developer
+- Java
 - Basic
+- Pascal
 - Fortran
 - C++
 - C
