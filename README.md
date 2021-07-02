@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @eazulay
-- 👀 I’m interested in software development.
+- 👋 Hi, I’m Eyal Azulay.
+- 👀 I am a software developer with 35 years' experience in many computer languages.
 - 🌱 I’m currently learning AWS.
 - 💞️ I’m looking to collaborate on interesting projects.
-- 📫 How to reach me ...
+- 📫 You can reach me on this contact form: https://get-it-write.com/contact/
 
 <!---
 eazulay/eazulay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
