@@ -15,7 +15,7 @@ I'm currently using:
 - Wordpress
 - Salesforce (incl. Apex, VisualForce)
 
-What I've used in the past:
+I've used in the past:
 - C# .Net
 - Magic e-Developer
 - Java
@@ -26,7 +26,7 @@ What I've used in the past:
 - C
 - Assembly
 
-I've also briefly touched:
+I've also experimented with:
 - TypeScript
 - React
 - Angular
