@@ -10,12 +10,13 @@ I'm currently using:
 - MySQL
 - AWS (IAM, Cognito, API Gateway, Lambda, RDS/Aurora, CloudWatch)
 - Svelte
-- Sapper and SvelteKit
+- SvelteKit
 - PHP
 - Wordpress
 - Salesforce (incl. Apex, VisualForce)
 
 I've used in the past:
+- Sapper
 - C# .Net
 - Magic e-Developer
 - Java
