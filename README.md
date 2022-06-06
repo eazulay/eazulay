@@ -6,6 +6,7 @@
 
 I'm currently using:
 - Javascript
+- TypeScript
 - CSS
 - MySQL
 - AWS (IAM, Cognito, API Gateway, Lambda, RDS/Aurora, CloudWatch)
@@ -28,7 +29,6 @@ I've used in the past:
 - Assembly
 
 I've also experimented with:
-- TypeScript
 - React
 - Angular
 
