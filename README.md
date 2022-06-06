@@ -10,7 +10,7 @@ I'm currently using:
 - MySQL
 - AWS (IAM, Cognito, API Gateway, Lambda, RDS/Aurora, CloudWatch)
 - Svelte
-- Sapper
+- Sapper and SvelteKit
 - PHP
 - Wordpress
 - Salesforce (incl. Apex, VisualForce)
