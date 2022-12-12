@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eyal Azulay.
 - 👀 I am a software developer with 35 years' experience in many computer languages.
-- 🌱 I’m currently learning AWS.
+- 🌱 I’m currently learning AWS and studying for my Salesforce Developer certificate. I already have a Salesforce Admin certificate.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 You can reach me on this contact form: https://get-it-write.com/contact/
 
