@@ -1,24 +1,26 @@
 - 👋 Hi, I’m Eyal Azulay.
-- 👀 I am a software developer with 35 years' experience in many computer languages.
-- 🌱 I’m currently learning AWS and studying for my Salesforce Developer certificate. I already have a Salesforce Admin certificate.
+- 👀 I am a software developer with 35+ years' experience in many computer languages.
+- ✔️ I'm developing SveltKit apps and experimenting with Threlte (Svelte + Three.js).
+- 🌱 I’m currently studying for my Salesforce Developer certificate. I already have a Salesforce Admin certificate.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 You can reach me on this contact form: https://get-it-write.com/contact/
 
 I'm currently using:
-- Javascript
+- JavaScript
 - TypeScript
 - CSS
 - MySQL
-- AWS (IAM, Cognito, API Gateway, Lambda, RDS/Aurora, CloudWatch)
 - Svelte
 - SvelteKit
 - PHP
-- Wordpress
+- jQuery
+- WordPress
 - Salesforce (incl. Apex, VisualForce)
 
 I've used in the past:
+- AWS (IAM, Cognito, API Gateway, Lambda, RDS/Aurora, CloudWatch)
 - C# .Net
-- Magic e-Developer
+- Magic e-Developer (now Magic xpa)
 - Java
 - Sapper
 - Basic
