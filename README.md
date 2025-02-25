@@ -22,7 +22,6 @@ I've used in the past:
 - C# .Net
 - Magic e-Developer (now Magic xpa)
 - Java
-- Sapper
 - Basic
 - Pascal
 - Fortran
